@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sapient-helix-396808",
+  "private_key_id": "6e69c7a954b3550f355e77e5395b1b410da38df5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKV+zlQvhR7pAD\nRojt/kNvbNYsG3BOMB9riZpyNfa6cZslV79LOqvEZUQNUJB30tifB7MB9SapmXk9\nlyQcv8s9cKt+xBmmo1edSFjtx/W43kUhXrC5kPEkV5FeXk4WuIKEVjsJkDkMjACW\n5lgVIhUPDckDoAcox8O6BXwwhHEYnmnHLKepizNu2sKszlRRoXY9RJUjWUYPiQbn\nDgKhMapGeNz1aXMQjQ3qq5EfbAIqkQ+CS6A0t+JaneIXHweSB2fmI5g5RtqZ1xB4\ndKrxjAHTD/EAbCN+Gcz1ekghGYUkrrgV7x2AtU/wS6TNyawAKiKt7tEiDofyduoP\nYLAbhgTdAgMBAAECggEAGC7Gekz6m1fYVLo/tVp87z1XMt6ZAxHmbCXhmZVVS8IQ\nHLb5+WyIGgyZmLo8hrWUqDfwUqdH2t25E8sXxO7B2DuZvs8IrNhguF2tLeOGUIqK\nCwtCWS28+V1VS+mwPMiECB4Ks+FCF69hav9Y5ljO1ZLTUI7osXg5/op26wQ7wNGu\nWwf9/ktG8w+x7cCLO/u/RX8C0rbDmT30vDAt+29hytkudE5YtGhiRuHaZFkRTGkV\ntXXvtYWf0N5kHKyF+f5izTvGT23iDBHGAykRxYp7865waJH90T3IrAygNrz4qdOl\nYlqDsgzeeQq152MADDu16JLBFJ2/zp1IZWt1lPPoAQKBgQDBK4PrUgrroG2F3Hny\nxvLvBFEImQQzOFzADRqxUVxcjBgRs6SyCDI3O/qEU7w2/unejDO31vn0DASofSph\nLsOZBd4l7gEMBAyCJ4OY0hpWtBGmBrorshWVUB9n9MbwlP1J3Vx6ag7m9M+zNfHD\ntjND7SYPZooshiwpsv559vXoeQKBgQC3VzoNuIuayw9zN5qdr7XI+34W3tsCwEFq\nvIWuunCJ7IvZQdcOMzxMVH+uRBnbfrpzfyEWly/eEpJSBkbTStrDLNEqiQiiYpPO\nNLdldg2F+kq3J2gr7QI1R+sMbuNl7c8fyQWhYKYKdY7qwMMA+fhAn7Jfme8pzlLR\ndmXmC1KuhQKBgQCjE3iADjgX6czsaFAvTBPFAtDiQEPSde+fVrDFJ1mg68haEV2l\nytOR27nHQuWvTA7mCViUCBHmHMtF7rz7ZD5OjiyXutD5cuWYb4FiX2VK8yO/FQjQ\nYLxl3ElXOsdETZNza0RqN+Uyx1QdCBp9TfEDlE5ATCG0KuVXorvA/WNmiQKBgGtr\n+UDW0z1UIu5QMxCXRjzHVh6SXuJiwTGH2hABfzTg2yPlltrkHD1g+RqjHj9kJlzL\nrRhuZwaH/SGAOflND5Zx6PAyMFPszEtyyc3x+IR6nVJpDXlHOhb713WGd0heqRAn\nmVvvo/nW3XEglmE5FULQDxRCvkXRdObzp0q9cal9AoGAOAtxDEtQDX/pN8at6/ew\nPVMt1ChEBIvb6gknC3RnV/dlMn+cD7dPLauvpRUH3d0GUXImseYxTWOLMl73JiF6\nCno5FYvbhqf8wtziErClexzDMpiI4ItHKESb038u67evA3VGpTyOQVZW/lJ1U+zO\nvVjS/MlG1KzbNIOFPwJFJuA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheet@sapient-helix-396808.iam.gserviceaccount.com",
+  "client_id": "107999653893060576624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheet%40sapient-helix-396808.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
